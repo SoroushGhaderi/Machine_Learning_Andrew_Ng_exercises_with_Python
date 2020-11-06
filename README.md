@@ -43,3 +43,4 @@ Including learning curves and polynomial regression.
 8.1: Anomaly detection using a multivariate Gaussian model. Precision, recall, F1 score.
 
 8.2: Build a recommender system and use it to recommend movies.
+.
